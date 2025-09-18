@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyBoy29
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML, CSS, C++, Java and PHP. But I am also in School.
+- 🌱 I’m currently learning/know HTML, CSS, C#, C++, Java and PHP (+ Laravel). But I am also in School.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I already programmed many Minecraft-Mods. Maybe I will make some more. I already startet a RPG-Game and some other stuff.
 
